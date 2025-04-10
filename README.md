@@ -85,10 +85,6 @@ Before running this project, ensure you have the following installed:
 - [Dotenv](https://github.com/motdotla/dotenv): Loads environment variables from a `.env` file.
 - [EJS](https://ejs.co/): Embedded JavaScript templating.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Note:** This `README.md` provides an overview of the project, setup instructions, and important security considerations. Ensure that all sensitive information, such as AWS credentials, is handled securely and not exposed in the codebase.
